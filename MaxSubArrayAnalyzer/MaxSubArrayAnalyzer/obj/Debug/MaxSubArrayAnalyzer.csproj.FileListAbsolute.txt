@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CLRS\MaxSubArrayAnalyzer\MaxSubArrayAnalyzer\bin\Debug\MaxSubArrayAnalyzer.dll
+C:\Users\reeves\source\repos\CLRS\MaxSubArrayAnalyzer\MaxSubArrayAnalyzer\bin\Debug\MaxSubArrayAnalyzer.pdb
+C:\Users\reeves\source\repos\CLRS\MaxSubArrayAnalyzer\MaxSubArrayAnalyzer\obj\Debug\MaxSubArrayAnalyzer.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CLRS\MaxSubArrayAnalyzer\MaxSubArrayAnalyzer\obj\Debug\MaxSubArrayAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CLRS\MaxSubArrayAnalyzer\MaxSubArrayAnalyzer\obj\Debug\MaxSubArrayAnalyzer.dll
+C:\Users\reeves\source\repos\CLRS\MaxSubArrayAnalyzer\MaxSubArrayAnalyzer\obj\Debug\MaxSubArrayAnalyzer.pdb

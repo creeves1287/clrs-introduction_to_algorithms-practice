@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicksort", "Quicksort\Quicksort.csproj", "{6D6CB494-617B-46F8-BAB8-DCE00E5EF009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuicksortTests", "QuicksortTests\QuicksortTests.csproj", "{38213683-0873-4D40-8E51-DA297E8F8DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D6CB494-617B-46F8-BAB8-DCE00E5EF009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6CB494-617B-46F8-BAB8-DCE00E5EF009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6CB494-617B-46F8-BAB8-DCE00E5EF009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6CB494-617B-46F8-BAB8-DCE00E5EF009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38213683-0873-4D40-8E51-DA297E8F8DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38213683-0873-4D40-8E51-DA297E8F8DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38213683-0873-4D40-8E51-DA297E8F8DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38213683-0873-4D40-8E51-DA297E8F8DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC46951-3A95-4924-A137-0B362F3040D9}
+	EndGlobalSection
+EndGlobal

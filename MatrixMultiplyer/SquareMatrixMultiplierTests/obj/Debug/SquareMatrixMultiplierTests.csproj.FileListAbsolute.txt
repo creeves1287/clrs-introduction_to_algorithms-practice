@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\bin\Debug\SquareMatrixMultiplierTests.dll
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\bin\Debug\SquareMatrixMultiplierTests.pdb
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\bin\Debug\MatrixMultiplyer.dll
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\bin\Debug\MatrixMultiplyer.pdb
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\obj\Debug\SquareMatrixMultiplierTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\obj\Debug\SquareMatrixMultiplierTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\obj\Debug\SquareMatrixMultiplierTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\obj\Debug\SquareMatrixMultiplierTests.dll
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\SquareMatrixMultiplierTests\obj\Debug\SquareMatrixMultiplierTests.pdb

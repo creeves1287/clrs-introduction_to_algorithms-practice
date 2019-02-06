@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\MatrixMultiplyer\bin\Debug\MatrixMultiplyer.dll
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\MatrixMultiplyer\bin\Debug\MatrixMultiplyer.pdb
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\MatrixMultiplyer\obj\Debug\MatrixMultiplyer.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\MatrixMultiplyer\obj\Debug\MatrixMultiplyer.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\MatrixMultiplyer\obj\Debug\MatrixMultiplyer.dll
+C:\Users\reeves\source\repos\CLRS\MatrixMultiplyer\MatrixMultiplyer\obj\Debug\MatrixMultiplyer.pdb

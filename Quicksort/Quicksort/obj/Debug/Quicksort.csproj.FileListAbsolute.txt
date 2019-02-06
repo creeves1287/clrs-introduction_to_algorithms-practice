@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CLRS\Quicksort\Quicksort\bin\Debug\Quicksort.dll
+C:\Users\reeves\source\repos\CLRS\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+C:\Users\reeves\source\repos\CLRS\Quicksort\Quicksort\obj\Debug\Quicksort.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CLRS\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CLRS\Quicksort\Quicksort\obj\Debug\Quicksort.dll
+C:\Users\reeves\source\repos\CLRS\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
