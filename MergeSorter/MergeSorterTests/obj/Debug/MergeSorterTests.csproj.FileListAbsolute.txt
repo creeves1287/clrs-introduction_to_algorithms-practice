@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\bin\Debug\MergeSorterTests.dll
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\bin\Debug\MergeSorterTests.pdb
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\bin\Debug\MergeSorter.dll
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\bin\Debug\MergeSorter.pdb
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\obj\Debug\MergeSorterTests.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\obj\Debug\MergeSorterTests.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\obj\Debug\MergeSorterTests.dll
+C:\Users\chris\source\repos\CLRS\MergeSorter\MergeSorterTests\obj\Debug\MergeSorterTests.pdb
