@@ -2,7 +2,7 @@
 
 namespace CountingSort
 {
-    public class CountingSorter
+    public partial class CountingSorter
     {
         public int[] Sort(int[] a)
         {
@@ -18,7 +18,7 @@ namespace CountingSort
             {
                 c[i] += c[i - 1];
             }
-            for (int i = 0; i < a.Length; i++)
+            for (int i = a.Length - 1; i >= 0; i--)
             {
                 int cIndex = a[i];
                 int bIndex = c[cIndex] - 1;
