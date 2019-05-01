@@ -1,0 +1,9 @@
+C:\Users\chris\source\repos\CLRS\CountingSorter\CountingSorter\bin\Debug\netstandard2.0\CountingSorter.deps.json
+C:\Users\chris\source\repos\CLRS\CountingSorter\CountingSorter\bin\Debug\netstandard2.0\CountingSorter.dll
+C:\Users\chris\source\repos\CLRS\CountingSorter\CountingSorter\bin\Debug\netstandard2.0\CountingSorter.pdb
+C:\Users\chris\source\repos\CLRS\CountingSorter\CountingSorter\obj\Debug\netstandard2.0\CountingSorter.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\CLRS\CountingSorter\CountingSorter\obj\Debug\netstandard2.0\CountingSorter.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CLRS\CountingSorter\CountingSorter\obj\Debug\netstandard2.0\CountingSorter.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\CLRS\CountingSorter\CountingSorter\obj\Debug\netstandard2.0\CountingSorter.AssemblyInfo.cs
+C:\Users\chris\source\repos\CLRS\CountingSorter\CountingSorter\obj\Debug\netstandard2.0\CountingSorter.dll
+C:\Users\chris\source\repos\CLRS\CountingSorter\CountingSorter\obj\Debug\netstandard2.0\CountingSorter.pdb
