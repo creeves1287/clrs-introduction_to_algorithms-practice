@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\CLRS\TreeTraverse\TreeTraverse\bin\Debug\TreeTraverse.dll
+C:\Users\chris\source\repos\CLRS\TreeTraverse\TreeTraverse\bin\Debug\TreeTraverse.pdb
+C:\Users\chris\source\repos\CLRS\TreeTraverse\TreeTraverse\obj\Debug\TreeTraverse.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\CLRS\TreeTraverse\TreeTraverse\obj\Debug\TreeTraverse.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CLRS\TreeTraverse\TreeTraverse\obj\Debug\TreeTraverse.dll
+C:\Users\chris\source\repos\CLRS\TreeTraverse\TreeTraverse\obj\Debug\TreeTraverse.pdb
